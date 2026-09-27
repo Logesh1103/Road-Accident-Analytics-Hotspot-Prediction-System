@@ -24,6 +24,7 @@ app = Flask(__name__)
 
 cors_origins = [
     "https://rishabamurthi1887.github.io",
+    "https://road-accident-analytics-hotspot-prediction-system.logesh94894.workers.dev",
     "http://localhost:5500",
     "http://127.0.0.1:5500",
 ]
